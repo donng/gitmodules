@@ -1,0 +1,3 @@
+[submodule "dnsserver"]
+	path = dnsserver
+	url = https://github.com/donng/dnsserver.git
